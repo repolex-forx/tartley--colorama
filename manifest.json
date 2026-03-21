@@ -125,6 +125,35 @@
         "blob/06cc8bb3107e4874b0f278698c3a0c7fe5b8aafc.nq.gz",
         "blob/6305ed30c07eae7e4892901f0c91b6e524d5a290.nq.gz",
         "blob/f351763471de5e8776c6f8a050c4dc546d97cc16.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/99786beda2066a7f35d8455e115d8a8d45406cdb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/99786beda2066a7f35d8455e115d8a8d45406cdb.nq.gz",
+      "repolex": "aggregate/repolex/99786beda2066a7f35d8455e115d8a8d45406cdb.nq.gz",
+      "dep": "dep/99786beda2066a7f35d8455e115d8a8d45406cdb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "fixpath",
+          "packageVersion": "0.1.0",
+          "githubOrg": "PlayerG9",
+          "githubRepo": "FixPath.py",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        },
+        {
+          "packageName": "mock",
+          "packageVersion": "5.2.0",
+          "githubOrg": "testing-cabal",
+          "githubRepo": "mock",
+          "githubCommit": "0f5df822bde4729cb2190819ad01a8728ddc9de3"
+        }
       ]
     }
   ],
