@@ -1,5 +1,11 @@
 {
   "org": "tartley",
   "repo": "colorama",
-  "versions": []
+  "versions": [
+    {
+      "commit": "9b5ebe9ac61822f3412277268c81e3104517b4c8",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
