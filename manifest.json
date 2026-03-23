@@ -1136,13 +1136,6 @@
       "dep": "dep/d83cff271f67e756e65be9427056442858d2ec24.nq.gz",
       "dependencies": [
         {
-          "packageName": "fixpath",
-          "packageVersion": "0.1.0",
-          "githubOrg": "PlayerG9",
-          "githubRepo": "FixPath.py",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "mock",
           "packageVersion": "5.2.0",
           "githubOrg": "testing-cabal",
@@ -1155,6 +1148,13 @@
           "githubOrg": "tartley",
           "githubRepo": "colorama",
           "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        },
+        {
+          "packageName": "fixpath",
+          "packageVersion": "0.1.0",
+          "githubOrg": "PlayerG9",
+          "githubRepo": "FixPath.py",
+          "githubCommit": "HEAD"
         }
       ]
     },
