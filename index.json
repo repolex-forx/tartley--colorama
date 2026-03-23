@@ -3,6 +3,11 @@
   "repo": "colorama",
   "versions": [
     {
+      "commit": "15197674cbf1b13d1ead99ef192aca1b732c0539",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "2c592416361b031e3bba00a6efd669c116645aff",
       "tag": "",
       "parsed_at": ""
