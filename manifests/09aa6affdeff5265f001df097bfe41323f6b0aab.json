@@ -1,0 +1,36 @@
+{
+  "commit": "09aa6affdeff5265f001df097bfe41323f6b0aab",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/09aa6affdeff5265f001df097bfe41323f6b0aab.nq.gz",
+      "size_bytes": 435809
+    },
+    "dep": {
+      "path": "dep/09aa6affdeff5265f001df097bfe41323f6b0aab.nq.gz",
+      "size_bytes": 543
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "fixpath",
+      "packageVersion": "0.1.0",
+      "githubOrg": "PlayerG9",
+      "githubRepo": "FixPath.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mock",
+      "packageVersion": "5.2.0",
+      "githubOrg": "testing-cabal",
+      "githubRepo": "mock",
+      "githubCommit": "0f5df822bde4729cb2190819ad01a8728ddc9de3"
+    },
+    {
+      "packageName": "colorama",
+      "packageVersion": "0.4.6rc1",
+      "githubOrg": "tartley",
+      "githubRepo": "colorama",
+      "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+    }
+  ]
+}
