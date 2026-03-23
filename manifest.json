@@ -1605,18 +1605,18 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
-          "githubOrg": "tartley",
-          "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
-        },
-        {
           "packageName": "mock",
           "packageVersion": "5.2.0",
           "githubOrg": "testing-cabal",
           "githubRepo": "mock",
           "githubCommit": "0f5df822bde4729cb2190819ad01a8728ddc9de3"
+        },
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
         }
       ]
     },
