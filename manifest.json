@@ -2291,18 +2291,18 @@
       "dep": "dep/f8ab4fd9e8494d7208d669df5c2d5e3d59439643.nq.gz",
       "dependencies": [
         {
-          "packageName": "fixpath",
-          "packageVersion": "0.1.0",
-          "githubOrg": "PlayerG9",
-          "githubRepo": "FixPath.py",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "colorama",
           "packageVersion": "0.4.6rc1",
           "githubOrg": "tartley",
           "githubRepo": "colorama",
           "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        },
+        {
+          "packageName": "fixpath",
+          "packageVersion": "0.1.0",
+          "githubOrg": "PlayerG9",
+          "githubRepo": "FixPath.py",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "mock",
