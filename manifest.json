@@ -2753,13 +2753,6 @@
       "dep": "dep/3de9f013df4b470069d03d250224062e8cf15c49.nq.gz",
       "dependencies": [
         {
-          "packageName": "fixpath",
-          "packageVersion": "0.1.0",
-          "githubOrg": "PlayerG9",
-          "githubRepo": "FixPath.py",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "colorama",
           "packageVersion": "0.4.6rc1",
           "githubOrg": "tartley",
@@ -2772,6 +2765,13 @@
           "githubOrg": "testing-cabal",
           "githubRepo": "mock",
           "githubCommit": "0f5df822bde4729cb2190819ad01a8728ddc9de3"
+        },
+        {
+          "packageName": "fixpath",
+          "packageVersion": "0.1.0",
+          "githubOrg": "PlayerG9",
+          "githubRepo": "FixPath.py",
+          "githubCommit": "HEAD"
         }
       ]
     },
